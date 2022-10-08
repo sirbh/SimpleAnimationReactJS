@@ -12,3 +12,8 @@ export const PageTwo =()=>
     
 }
 
+export const PageThree =()=>
+{
+    return <Page heading="Presentation -3" btnArr={[{name:'Prev Page',link:'/page-2'}]}></Page>
+    
+}
