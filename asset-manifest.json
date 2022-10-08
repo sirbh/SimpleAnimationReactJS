@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SimpleAnimationReactJS/static/css/main.c88d5784.chunk.css",
-    "main.js": "/SimpleAnimationReactJS/static/js/main.b228c24e.chunk.js",
-    "main.js.map": "/SimpleAnimationReactJS/static/js/main.b228c24e.chunk.js.map",
+    "main.css": "/SimpleAnimationReactJS/static/css/main.558da924.chunk.css",
+    "main.js": "/SimpleAnimationReactJS/static/js/main.8a1f5282.chunk.js",
+    "main.js.map": "/SimpleAnimationReactJS/static/js/main.8a1f5282.chunk.js.map",
     "runtime-main.js": "/SimpleAnimationReactJS/static/js/runtime-main.c97ae666.js",
     "runtime-main.js.map": "/SimpleAnimationReactJS/static/js/runtime-main.c97ae666.js.map",
     "static/js/2.26eabddb.chunk.js": "/SimpleAnimationReactJS/static/js/2.26eabddb.chunk.js",
     "static/js/2.26eabddb.chunk.js.map": "/SimpleAnimationReactJS/static/js/2.26eabddb.chunk.js.map",
     "index.html": "/SimpleAnimationReactJS/index.html",
-    "precache-manifest.636a549ee1e9260521941205b153248b.js": "/SimpleAnimationReactJS/precache-manifest.636a549ee1e9260521941205b153248b.js",
+    "precache-manifest.a7fd631bb2b01fe7e4760a6487763556.js": "/SimpleAnimationReactJS/precache-manifest.a7fd631bb2b01fe7e4760a6487763556.js",
     "service-worker.js": "/SimpleAnimationReactJS/service-worker.js",
-    "static/css/main.c88d5784.chunk.css.map": "/SimpleAnimationReactJS/static/css/main.c88d5784.chunk.css.map",
+    "static/css/main.558da924.chunk.css.map": "/SimpleAnimationReactJS/static/css/main.558da924.chunk.css.map",
     "static/js/2.26eabddb.chunk.js.LICENSE.txt": "/SimpleAnimationReactJS/static/js/2.26eabddb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c97ae666.js",
     "static/js/2.26eabddb.chunk.js",
-    "static/css/main.c88d5784.chunk.css",
-    "static/js/main.b228c24e.chunk.js"
+    "static/css/main.558da924.chunk.css",
+    "static/js/main.8a1f5282.chunk.js"
   ]
 }
